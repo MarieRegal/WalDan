@@ -1,2 +1,1 @@
-# dokOTP
-Spam OTP dari situs" layanan tanya jawab (konsultasi) dokter gratis di indonesia
+python -m pip install requests bs4 click
