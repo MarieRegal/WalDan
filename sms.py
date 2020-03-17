@@ -63,7 +63,8 @@ while True:
 
 		lgi=input("\n[?] Mau Coba Lagi Gak Maz Brow :D (y/n) ")
 		if lgi.lower() == 'y':
-                lop=int(input("[?] Kirim Berapa Kali: "))
+                print()
+                pil=int(input("> Pilih: "))
            else:
 		if lgi.lower() == 'n':
 			sys.exit('By.WaLDaN_GOODBYE Maz Brow :v')
