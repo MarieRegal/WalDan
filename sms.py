@@ -59,7 +59,7 @@ while True:
 			for i in range(lop):
 				main.klikdok(num)
 		else:
-			print("?: Pilih Yang Bener Bjiir Awowkwowokk :D ")
+			print("?: Nomer hpnya mana Bjiir Awowkwowokk :D ")
 
 		lgi=input("\n[?] Mau Coba Lagi Gak Maz Brow :D (y/n) ")
 		if lgi.lower() == 'n':
