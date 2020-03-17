@@ -63,7 +63,7 @@ while True:
 
 		lgi=input("\n[?] Mau Coba Lagi Gak Maz Brow :D (y/n) ")
 		if lgi.lower() == 'n':
-                main.klikdok(num)
+                print(pil)
                 else:
 			sys.exit('By.WaLDaN_GOODBYE Maz Brow :v')
 	except Exception as Err:
